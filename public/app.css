@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: larger;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+section#login {
+  display: none;
+}
+
+button {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.instructions {
+  color: #444;
+}
