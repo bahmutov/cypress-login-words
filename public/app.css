@@ -16,6 +16,10 @@ section#login {
   display: none;
 }
 
+section li {
+  margin-bottom: 10px;
+}
+
 button {
   margin-top: 2rem;
   padding: 1rem;
