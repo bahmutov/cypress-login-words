@@ -1,5 +1,7 @@
 # cypress-login-words
 
+![Log in using words](./images/words.gif)
+
 ## Install and run
 
 ```
